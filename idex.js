@@ -1,7 +1,7 @@
-// const user ={
-//     name: 'seyran'
-// }
-// console.log(user)
+const user ={
+    name: 'seyran'
+}
+console.log(user)
 
 ///////////////////////////////////YOXALAMA 1
 
